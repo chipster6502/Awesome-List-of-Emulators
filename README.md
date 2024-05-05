@@ -2,7 +2,9 @@
 Being an obsessed, compulsive hoarder I decided to try and compile a list of all the emulators and simulators I could find on the internet for ease of access.
 Be aware, these aren't the only machines that can be emulated. I haven't really included MAME because it would be kinda cheating haha, at the time of writing it has 38049 machines ready for use, working or not. Most, if not all of these machines can be found on MAME and I tried not to include machines which are only supported there, unless they were worth mentioning. https://www.mamedev.org/
 
-***1840s/1890s:***
+***1830s/1890s:***
+
+1837 - [Analytical Engine](http://fourmilab.ch/babbage/emulator.html)
 
 1846/1849 - [Difference Engine No. 2](https://github.com/aroman/difference-engine)
 
